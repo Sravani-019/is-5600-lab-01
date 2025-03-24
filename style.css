@@ -27,7 +27,7 @@ nav {
    background-repeat: no-repeat;
    background-position: 10px 5px;
    padding: 20px;
-   height: 100px;
+   height: 100;
 }
 nav li {
    display: inline-block;
